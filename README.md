@@ -1,1 +1,1 @@
-# Odin_Recipes_Update
+# odin-recipes
